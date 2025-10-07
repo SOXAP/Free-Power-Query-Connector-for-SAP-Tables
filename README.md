@@ -24,3 +24,5 @@ Features:
 - Signed by Sectigo Certifcate Authority
 - Respects native SAP security
 - 100% Safe + Free -> built by: www.linkedin.com/in/georgeborghouts
+
+- For usage, tips&tricks check: youtube.com/channel/UCOoZq_2jsLeo6z_GBTx3miw/
