@@ -25,4 +25,4 @@ Features:
 - Respects native SAP security
 - 100% Safe + Free -> built by: www.linkedin.com/in/georgeborghouts
 
-- For usage, tips&tricks check: youtube.com/channel/UCOoZq_2jsLeo6z_GBTx3miw/
+- For usage, tips&tricks check: www.youtube.com/channel/UCOoZq_2jsLeo6z_GBTx3miw/
